@@ -12,7 +12,7 @@
 Clone from Github
 
 ```
-git clone https://github.com/themewagon/Nova-Bootstrap-5.git
+git clone https://github.com/themewagon/Nova-Bootstrap.git
 ```
 ## Author
 
