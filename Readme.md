@@ -2,7 +2,7 @@
 
 #### Preview
 
- - [Demo](https://themewagon.github.io/Nova-Bootstrap-5/)
+ - [Demo](https://themewagon.github.io/Nova-Bootstrap/)
 
 #### Download
  - [Download from ThemeWagon](https://themewagon.com/themes/nova-bootstrap/)
