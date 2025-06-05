@@ -21,7 +21,7 @@ Design and code is completely written by Freebiesbug's design and development te
 
 ## License
 
- - Design and Code is Copyright &copy; [WrapPixel](https://freebiesbug.com/)
+ - Design and Code is Copyright &copy; [Freebiesbug](https://freebiesbug.com/)
  - Licensed cover under [MIT]
  - Distributed by [ThemeWagon](https://themewagon.com)
 
