@@ -5,7 +5,7 @@
  - [Demo](https://themewagon.github.io/Nova-Bootstrap-5/)
 
 #### Download
- - [Download from ThemeWagon](https://themewagon.com/themes/Nova-Bootstrap 5/)
+ - [Download from ThemeWagon](https://themewagon.com/themes/nova-bootstrap/)
 
 ## Getting Started
 
